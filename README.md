@@ -26,7 +26,7 @@ Infrastructure incidents reported via email required manual monitoring and delay
 |--------|--------|-------|-------------|
 | Incident Detection Time | Manual (30-60 min) | Automated (< 1 min) | 97% reduction |
 | Response Time | 60+ minutes | < 5 minutes | 92% improvement |
-| Manual Monitoring | 8 hours/day | Automated 24/7 | 100% coverage |
+| Manual Monitoring | 14 hours/day | Automated 24/7 | 100% coverage |
 | False Positives | Common | Zero | Eliminated |
 
 ## 🛠️ Technologies
